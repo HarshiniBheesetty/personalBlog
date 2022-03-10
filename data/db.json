@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "title": "Why to use Typescript in 2022?",
+      "body": "I couldn’t start this article without at least a short explanation of what Typescript exactly is. Typescript is an open-source programming language created by Microsoft. Actually, it’s a superset of Javascript which adds static typing to the language. It is worth mentioning that in the end Typescript compiles to Javascript, so the final code can run on any environment which supports JS. It can be both client-side (web browser) or server-side (Node.js). Now you could ask: “Ok but why do I need static typing at all? If Typescript compiles to Javascript doesn’t it mean that Javascript is enough?”In 2020 The Software House prepared a report State of Frontend 2020. It’s a huge knowledge base about developers experience, satisfaction and daily workflow. You should definitely check it if you haven’t had a chance yet. When developers were asked, “Have you used TypeScript during the last year?”, 77% answered “Yes“ compared to 23% of “No” answers. Additionally, about 94% of respondents indicated that they like Typescript the most. The last question about TS from this survey seems pretty interesting, too.",
+      "author": "Buro",
+      "category": "Technology",
+      "id": 1
+    },
+    {
+      "title": "Netflix remains the top choice!",
+      "body": "Streaming shows and movies over the internet is the best way to watch TV, and Netflix is the best choice for streaming entertainment, period. It includes a wide variety of familiar network shows and more original series, films, documentaries and specials than any of its myriad competitors. Despite slowing subscriber growth, the world's first major streaming service remains our favorite choice thanks to its huge library of constantly refreshed content and its easy accessibility across different devices. Netflix won 44 Emmys in 2021, more than the next two media companies combined. If you're looking for something new to watch, Netflix should be your top choice.Depending on the plan you choose, Netflix costs between $10 and $20 per month, which is at the higher end for a streaming service, as you can see in the chart below. Its recent price increase shook up the streaming world and moved Netflix closer to HBO Max in terms of cost. However, the pricier package lets you watch up to four screens at once, and create different user profiles, so in theory, you could split it among friends to lower the price. Thanks to its sheer variety and number of new things to watch, Netflix also gives you the most bang for your buck.",
+      "author": "Harshini",
+      "category": "Entertainment",
+      "id": 2
+    },
+    {
+      "title": "Reasons why cricket is the most popular sport in India",
+      "body": "Granted, cricket is not as easy to get started playing as, say, football, which only requires a ball and can be played alone. Cricket does have a few other equipment requirements and is best played with at least 1 friend.However, despite these challenges, cricket is still a relatively easy game to get started playing, and the creativity of young people in India means that they always find a way to play.This is why you often see kids playing street cricket using anything from rusty metal pipes to ragged old tennis balls. The simplicity of the sport makes it a visible sight even in the smallest roads and streets of India.",
+      "author": "mario",
+      "category": "Sports",
+      "id": 3
+    },
+    {
+      "title": "Famous Quotes of Dhoni",
+      "body": "The talented star, Mahendra Singh Dhoni, is amongst the most famous cricketers in the world and most loved by his fans, who are known not just for his helicopter shot but his astounding sense of humor too. The life story of Mahi has been beautifully engraved into the movie MS Dhoni untold story. The cricketer recently announced his retirement from all international formats, which came as a shock to many. It's time to reminisce the entire colorful career all over again through the iconic lines said by him. Here are some of the best and famous MS Dhoni Quotes that will forever remain a source of inspiration for millions of us. 1. \"Cricket is not everything, not by any means, but it is a large part of who I am. Therefore, I want to play in all the formats of the game and to play as much as possible because, before long, it will be over.\" 2. \"Strong Characters are needed in the game.\" 3. \"I like to make statements on the field.\" 4. \"I love to be in the moment; I love to analyze things a bit.\" 5. \"Leadership is the capacity to translate vision into reality.\" 6. \"You don’t play for the crowd; you play for the country.\" 7. \"You have seen cricketers who are not god-gifted, but even then, they have gone far. That’s because of the passion.\" 8. \"Gut feeling is all about the experiences that you have had in your life. It is about being in difficult scenarios, knowing what worked, what did not work, and then taking a decision.\" 9. \"Self-Confidence has always been one of my good qualities. I am always very confident. It is in my nature to be confident, to be aggressive. And it applies in my batting as well as wicket keeping.\" 10. \"If you don’t really have a dream, you can’t really push yourself, you don’t really know what the target is.\" 11. \"For me, it is important to build good partnerships rather than score centuries. Once, you have those partnerships; you will also get centuries.\" 12. \"I don’t regret anything in my life. What does not kill you makes you stronger.\"",
+      "author": "Harshini",
+      "category": "Sports",
+      "id": 5
+    },
+    {
+      "title": "Reasons you need to start playing Badminton",
+      "body": "Badminton offers a whole host of benefits ranging from increasing life expectancy and mobility to promoting heart health and exercise for all ages and abilities. While you’re lunging, diving, running and getting your heart pumping, playing a game of badminton can help you burn around 450 calories an hour. The varied movements provide a powerful cardio workout by engaging the entire body, including the hamstrings, quads, calves and your core. For adults, we recommend taking 30 minutes of exercise, five times a week. Due to increased home and work life responsibilities, some of us may be guilty of not doing as much physical activity as we should. Badminton is a fun and flexible sport that can be enjoyed around your busy schedule. Our courts are available to hire during the day, in the evenings and on weekends. You can even use your workout as an opportunity to socialise and catch-up with friends and family. Taking part in any form of regular physical activity helps to release our natural feel good happy hormones, endorphins. In turn, this can help reduce depression, anxiety and stress and improve our overall mood and sleep. Talking to other players and rallying in singles or doubles means that badminton is a social sport. This can be particularly beneficial in combating loneliness among older players.",
+      "author": "Harshini",
+      "category": "Sports",
+      "id": 6
+    }
+  ]
+}
